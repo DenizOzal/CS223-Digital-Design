@@ -1,0 +1,9 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+C:/Users/deniz/Desktop/Bilkent/CS 223-224/Cs223_Labs/Lab4/Lab4.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+C:/Users/deniz/Desktop/Bilkent/CS 223-224/Cs223_Labs/Lab4/Lab4.srcs/sim_1/new/tb_traffic_light.sv,1606593968,systemVerilog,,,,tb_traffic_light,,,,,,,,
+C:/Users/deniz/Desktop/Bilkent/CS 223-224/Cs223_Labs/Lab4/Lab4.srcs/sources_1/new/top_traffic_light.sv,1606589469,systemVerilog,,C:/Users/deniz/Desktop/Bilkent/CS 223-224/Cs223_Labs/Lab4/Lab4.srcs/sim_1/new/tb_traffic_light.sv,,top_traffic_light,,,,,,,,
+C:/Users/deniz/Desktop/Bilkent/CS 223-224/Cs223_Labs/Lab4/Lab4.srcs/sources_1/new/traffic_light.sv,1606590573,systemVerilog,,C:/Users/deniz/Desktop/Bilkent/CS 223-224/Cs223_Labs/Lab4/Lab4.srcs/sources_1/new/trans_3s_clock.sv,,traffic_light,,,,,,,,
+C:/Users/deniz/Desktop/Bilkent/CS 223-224/Cs223_Labs/Lab4/Lab4.srcs/sources_1/new/trans_3s_clock.sv,1606592535,systemVerilog,,C:/Users/deniz/Desktop/Bilkent/CS 223-224/Cs223_Labs/Lab4/Lab4.srcs/sources_1/new/top_traffic_light.sv,,trans_3s_clock,,,,,,,,

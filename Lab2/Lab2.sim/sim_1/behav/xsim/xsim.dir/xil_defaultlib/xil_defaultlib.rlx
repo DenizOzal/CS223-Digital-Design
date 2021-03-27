@@ -1,0 +1,11 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+C:/Users/deniz/Desktop/Bilkent/CS 223-224/Lab2/Lab2.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+C:/Users/deniz/Desktop/Bilkent/CS 223-224/Lab2/Lab2.srcs/sim_1/new/TestBench_FullAdderStructural.sv,1603267823,systemVerilog,,,,TestBench_FullAdderStructural,,,,,,,,
+C:/Users/deniz/Desktop/Bilkent/CS 223-224/Lab2/Lab2.srcs/sim_1/new/TestBench_FullSubstractorStructural.sv,1603268599,systemVerilog,,,,TestBench_FullSubstractorStructural,,,,,,,,
+C:/Users/deniz/Desktop/Bilkent/CS 223-224/Lab2/Lab2.srcs/sim_1/new/TestBench_TwoBitAdderStructural.sv,1603270373,systemVerilog,,,,TestBench_TwoBitAdderStructural,,,,,,,,
+C:/Users/deniz/Desktop/Bilkent/CS 223-224/Lab2/Lab2.srcs/sources_1/new/FullAdderStructural.sv,1603267672,systemVerilog,,C:/Users/deniz/Desktop/Bilkent/CS 223-224/Lab2/Lab2.srcs/sources_1/new/TwoBitAdder.sv,,FullAdderStructural;and2;or2;xor2,,,,,,,,
+C:/Users/deniz/Desktop/Bilkent/CS 223-224/Lab2/Lab2.srcs/sources_1/new/FullSubstractorStructural.sv,1603268651,systemVerilog,,C:/Users/deniz/Desktop/Bilkent/CS 223-224/Lab2/Lab2.srcs/sim_1/new/TestBench_FullSubstractorStructural.sv,,FullSubstractorStructural;not1,,,,,,,,
+C:/Users/deniz/Desktop/Bilkent/CS 223-224/Lab2/Lab2.srcs/sources_1/new/TwoBitAdder.sv,1603270377,systemVerilog,,C:/Users/deniz/Desktop/Bilkent/CS 223-224/Lab2/Lab2.srcs/sim_1/new/TestBench_TwoBitAdderStructural.sv,,TwoBitAdderStructural,,,,,,,,

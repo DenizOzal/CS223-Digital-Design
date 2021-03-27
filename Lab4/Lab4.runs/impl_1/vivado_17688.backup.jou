@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Sat Nov 28 21:53:27 2020
+# Process ID: 17688
+# Current directory: C:/Users/deniz/Desktop/Bilkent/CS 223-224/Cs223_Labs/Lab4/Lab4.runs/impl_1
+# Command line: vivado.exe -log top_traffic_light.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source top_traffic_light.tcl -notrace
+# Log file: C:/Users/deniz/Desktop/Bilkent/CS 223-224/Cs223_Labs/Lab4/Lab4.runs/impl_1/top_traffic_light.vdi
+# Journal file: C:/Users/deniz/Desktop/Bilkent/CS 223-224/Cs223_Labs/Lab4/Lab4.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source top_traffic_light.tcl -notrace

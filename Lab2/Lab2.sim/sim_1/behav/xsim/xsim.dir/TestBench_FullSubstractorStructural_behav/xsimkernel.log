@@ -1,0 +1,7 @@
+Running: xsim.dir/TestBench_FullSubstractorStructural_behav/xsimk.exe -simmode gui -wdb TestBench_FullSubstractorStructural_behav.wdb -simrunnum 0 -socket 56586
+Design successfully loaded
+Design Loading Memory Usage: 6276 KB (Peak: 6276 KB)
+Design Loading CPU Usage: 62 ms
+Simulation completed
+Simulation Memory Usage: 6908 KB (Peak: 6908 KB)
+Simulation CPU Usage: 62 ms

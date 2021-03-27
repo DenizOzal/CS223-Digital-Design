@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Sun Oct 25 19:12:10 2020
+# Process ID: 25696
+# Current directory: C:/Users/deniz/Desktop/Bilkent/CS 223-224/Cs223_Labs/Lab3/Lab3.runs/impl_1
+# Command line: vivado.exe -log mux8to1_function.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source mux8to1_function.tcl -notrace
+# Log file: C:/Users/deniz/Desktop/Bilkent/CS 223-224/Cs223_Labs/Lab3/Lab3.runs/impl_1/mux8to1_function.vdi
+# Journal file: C:/Users/deniz/Desktop/Bilkent/CS 223-224/Cs223_Labs/Lab3/Lab3.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source mux8to1_function.tcl -notrace

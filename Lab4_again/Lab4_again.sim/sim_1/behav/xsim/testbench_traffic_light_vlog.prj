@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../Lab4_again.srcs/sources_1/new/traffic_light.sv" \
+"../../../../Lab4_again.srcs/sim_1/new/testbench_traffic_light.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

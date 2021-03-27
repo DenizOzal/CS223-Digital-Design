@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Wed Oct 21 12:15:25 2020
+# Process ID: 3460
+# Current directory: C:/Users/deniz/Desktop/Bilkent/CS 223-224/Lab2/Lab2.runs/synth_1
+# Command line: vivado.exe -log TwoBitAdderStructural.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source TwoBitAdderStructural.tcl
+# Log file: C:/Users/deniz/Desktop/Bilkent/CS 223-224/Lab2/Lab2.runs/synth_1/TwoBitAdderStructural.vds
+# Journal file: C:/Users/deniz/Desktop/Bilkent/CS 223-224/Lab2/Lab2.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source TwoBitAdderStructural.tcl -notrace

@@ -1,0 +1,1 @@
+-wto "ef6f7867ffbd48c286da53778d1f5541" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "TestBench_FullAdderStructural_behav" "xil_defaultlib.TestBench_FullAdderStructural" "xil_defaultlib.glbl" -log "elaborate.log" 

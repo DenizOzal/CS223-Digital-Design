@@ -1,0 +1,2 @@
+Breakpoint File Version 1.0
+32 true C:/Users/deniz/Desktop/Bilkent/CS 223-224/Cs223_Labs/Lab4/Lab4.srcs/sim_1/new/tb_traffic_light.sv
